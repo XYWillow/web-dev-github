@@ -1,4 +1,4 @@
-Testing Git changed feature 111222
+Testing Git how to changed feature 111222
 
 Second line
 
