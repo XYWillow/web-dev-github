@@ -1,3 +1,5 @@
 Testing Git
 
 Second line
+
+new line for feature only
