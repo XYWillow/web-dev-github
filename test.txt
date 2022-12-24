@@ -1,8 +1,4 @@
-<<<<<<< HEAD
-Testing Git changed main
-=======
 Testing Git changed feature
->>>>>>> feature
 
 Second line
 
